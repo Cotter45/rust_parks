@@ -1,0 +1,226 @@
+[
+  {
+    "id": 1,
+    "state": "California",
+    "total_parks": 9,
+    "exclusive_parks": 8,
+    "shared_parks": 1
+  },
+  {
+    "id": 2,
+    "state": "Alaska",
+    "total_parks": 8,
+    "exclusive_parks": 8,
+    "shared_parks": null
+  },
+  {
+    "id": 3,
+    "state": "Utah",
+    "total_parks": 5,
+    "exclusive_parks": 5,
+    "shared_parks": null
+  },
+  {
+    "id": 4,
+    "state": "Colorado",
+    "total_parks": 4,
+    "exclusive_parks": 4,
+    "shared_parks": null
+  },
+  {
+    "id": 5,
+    "state": "Arizona",
+    "total_parks": 3,
+    "exclusive_parks": 3,
+    "shared_parks": null
+  },
+  {
+    "id": 6,
+    "state": "Florida",
+    "total_parks": 3,
+    "exclusive_parks": 3,
+    "shared_parks": null
+  },
+  {
+    "id": 7,
+    "state": "Washington",
+    "total_parks": 3,
+    "exclusive_parks": 3,
+    "shared_parks": null
+  },
+  {
+    "id": 8,
+    "state": "Hawaii",
+    "total_parks": 2,
+    "exclusive_parks": 2,
+    "shared_parks": null
+  },
+  {
+    "id": 9,
+    "state": "New Mexico",
+    "total_parks": 2,
+    "exclusive_parks": 2,
+    "shared_parks": null
+  },
+  {
+    "id": 10,
+    "state": "South Dakota",
+    "total_parks": 2,
+    "exclusive_parks": 2,
+    "shared_parks": null
+  },
+  {
+    "id": 11,
+    "state": "Texas",
+    "total_parks": 2,
+    "exclusive_parks": 2,
+    "shared_parks": null
+  },
+  {
+    "id": 12,
+    "state": "Montana",
+    "total_parks": 2,
+    "exclusive_parks": 1,
+    "shared_parks": 1
+  },
+  {
+    "id": 13,
+    "state": "Nevada",
+    "total_parks": 2,
+    "exclusive_parks": 1,
+    "shared_parks": 1
+  },
+  {
+    "id": 14,
+    "state": "Wyoming",
+    "total_parks": 2,
+    "exclusive_parks": 1,
+    "shared_parks": 1
+  },
+  {
+    "id": 15,
+    "state": "American Samoa",
+    "total_parks": 1,
+    "exclusive_parks": 1,
+    "shared_parks": null
+  },
+  {
+    "id": 16,
+    "state": "Arkansas",
+    "total_parks": 1,
+    "exclusive_parks": 1,
+    "shared_parks": null
+  },
+  {
+    "id": 17,
+    "state": "Indiana",
+    "total_parks": 1,
+    "exclusive_parks": 1,
+    "shared_parks": null
+  },
+  {
+    "id": 18,
+    "state": "Kentucky",
+    "total_parks": 1,
+    "exclusive_parks": 1,
+    "shared_parks": null
+  },
+  {
+    "id": 19,
+    "state": "Maine",
+    "total_parks": 1,
+    "exclusive_parks": 1,
+    "shared_parks": null
+  },
+  {
+    "id": 20,
+    "state": "Michigan",
+    "total_parks": 1,
+    "exclusive_parks": 1,
+    "shared_parks": null
+  },
+  {
+    "id": 21,
+    "state": "Minnesota",
+    "total_parks": 1,
+    "exclusive_parks": 1,
+    "shared_parks": null
+  },
+  {
+    "id": 22,
+    "state": "Missouri",
+    "total_parks": 1,
+    "exclusive_parks": 1,
+    "shared_parks": null
+  },
+  {
+    "id": 23,
+    "state": "North Dakota",
+    "total_parks": 1,
+    "exclusive_parks": 1,
+    "shared_parks": null
+  },
+  {
+    "id": 24,
+    "state": "Ohio",
+    "total_parks": 1,
+    "exclusive_parks": 1,
+    "shared_parks": null
+  },
+  {
+    "id": 25,
+    "state": "Oregon",
+    "total_parks": 1,
+    "exclusive_parks": 1,
+    "shared_parks": null
+  },
+  {
+    "id": 26,
+    "state": "South Carolina",
+    "total_parks": 1,
+    "exclusive_parks": 1,
+    "shared_parks": null
+  },
+  {
+    "id": 27,
+    "state": "U.S. Virgin Islands",
+    "total_parks": 1,
+    "exclusive_parks": 1,
+    "shared_parks": null
+  },
+  {
+    "id": 28,
+    "state": "Virginia",
+    "total_parks": 1,
+    "exclusive_parks": 1,
+    "shared_parks": null
+  },
+  {
+    "id": 29,
+    "state": "West Virginia",
+    "total_parks": 1,
+    "exclusive_parks": 1,
+    "shared_parks": null
+  },
+  {
+    "id": 30,
+    "state": "Idaho",
+    "total_parks": 1,
+    "exclusive_parks": null,
+    "shared_parks": 1
+  },
+  {
+    "id": 31,
+    "state": "North Carolina",
+    "total_parks": 1,
+    "exclusive_parks": null,
+    "shared_parks": 1
+  },
+  {
+    "id": 32,
+    "state": "Tennessee",
+    "total_parks": 1,
+    "exclusive_parks": null,
+    "shared_parks": 1
+  }
+]

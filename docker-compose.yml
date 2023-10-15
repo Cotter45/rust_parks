@@ -1,0 +1,12 @@
+version: "3.8"
+
+services:
+  parks:
+    image: parks:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./data:/app/data # Ensure that the application has access to the data folder
