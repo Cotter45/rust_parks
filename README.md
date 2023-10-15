@@ -72,4 +72,4 @@ Contributions are welcome! Feel free to submit issues or pull requests to improv
 
 ## License 📄
 
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
