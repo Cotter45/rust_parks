@@ -37,7 +37,7 @@ Hello Parks API is a Rust-based web application that provides endpoints to acces
 - Clone the repository to your local machine.
 
 ```bash
-git clone https://github.com/your-username/hello-parks-api.git
+git clone https://github.com/Cotter45/rust_parks.git
 ```
 
 - Navigate to the project directory.
